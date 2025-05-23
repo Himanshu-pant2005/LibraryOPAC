@@ -77,3 +77,14 @@ cd LibraryOPAC
 ---
 
 ## 📷 Screenshots
+### 🔍 Book Search Window
+
+![Book Search Window](Image/GUI.png)
+
+### ✅ Book Found Output
+
+![Book Available Message](Image/Book found.png)
+
+### ❌ Book Not Found Output
+
+![Book Not Available Message](Image/Not Found.png)
